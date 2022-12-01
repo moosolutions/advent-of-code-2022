@@ -5,6 +5,11 @@ plugins {
 repositories {
     mavenCentral()
 }
+dependencies {
+    implementation("junit:junit:4.13.1")
+    implementation(kotlin("stdlib-jdk8"))
+    implementation("junit:junit:4.13.1")
+}
 
 tasks {
     sourceSets {

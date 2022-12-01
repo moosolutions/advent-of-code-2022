@@ -2,7 +2,8 @@
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [moosolutions][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
-In this repository, moosolutions is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+Hi,
+my Name is Martin and this is my second year of Advent of Code[^aoc]. I try to solve all puzzles with [Kotlin][kotlin]. For me, it is a perfect challenge to go deeper into [Kotlin][kotlin]. Normally I use PHP and TypeScript but [Kotlin][kotlin] is a so cool programming language which is why I decided to use [Kotlin][kotlin] again this year to solve all the puzzles.
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
